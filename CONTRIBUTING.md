@@ -37,3 +37,21 @@ npx sequelize-cli model:generate --name modelName --attributes columnName1:dataT
 npx sequelize-cli migration:generate migrationName
 ```
 > This creates a template for migration, which can be used to define logic as per requirement.
+
+
+#### Performing CRUD operations
+
+Include the ```db``` object in your current file
+```
+const db = require('applicationRoot/models/index');
+```
+> replace ```applicationRoot``` with the relative path to ***root of our application*** (where package.json lives)
+
+db objects contains:
+- ```Sequelize``` : The original module/class
+- ```sequelize``` : An authenticated instance of above class
+- All our Models
+    - For Ex: If we have a ```User``` Model, we can use it to create a new user as follows: <br/>
+        ```
+        const jane = await db.User.create({ firstName: "Jane", lastName: "Doe" });
+        ```
