@@ -5,9 +5,15 @@ dotenv.config({
   path: path.resolve(__dirname, `${process.env.NODE_ENV}.env`)
 });
 
+
 const express = require('express');
 const app = express();
 const db = require(path.resolve(__dirname,'models','index'));
+
+
+const homePageRoutes = require('./routes/mainroute');
+app.use(express.static(path.join(__dirname, "public")));
+
 
 try {
   db.sequelize.authenticate();
@@ -21,6 +27,12 @@ const port = process.env.PORT || 3000;
 const server = app.listen(port, () => {
   console.log(`Server listening on port ${port}`)
 })
+
+
+app.set('view engine', 'ejs');
+app.set('views', path.join(__dirname, 'views'));
+app.use(express.urlencoded({ extended: true }));
+app.use('/', homePageRoutes);
 
 const terminationSignals = ['SIGINT', 'SIGTERM', 'SIGQUIT']
 
