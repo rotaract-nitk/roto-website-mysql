@@ -18,7 +18,7 @@ module.exports = (sequelize, DataTypes) => {
     title: DataTypes.STRING,
     description: DataTypes.STRING(1024),
     image: DataTypes.STRING,
-    date: DataTypes.DATE
+    date: DataTypes.STRING
   }, {
     sequelize,
     modelName: 'Activity',
