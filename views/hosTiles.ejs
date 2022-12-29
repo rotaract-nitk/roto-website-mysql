@@ -27,22 +27,22 @@
     <div class="container">
         <section class="dark">
             <div class="container py-4"></div>
-            <% for(let i=0;i < events.activity.length;i++){ %>
+            <% event.dataValues.Activities.forEach((activity,i) => { %>
                 <% if (i%2===0) { %>
                     <article class="postcard dark roto">
                         <a class="postcard__img_link" href="">
-                            <img class="postcard__img" src="<%= events.activity[i].imageURL %>" alt="Image Title" />
+                            <img class="postcard__img" src="<%= activity.dataValues.image %>" alt="Image Title" />
                         </a>
                         <div class="postcard__text">
                             <h1 class="postcard__title roto">
                                 <a href="#">
-                                    <%= events.activity[i].activityTitle %>
+                                    <%= activity.dataValues.title %>
                                 </a>
                             </h1>
                             <div class="postcard__subtitle small"></div>
                             <div class="postcard__bar"></div>
                             <div class="postcard__preview-txt">
-                                <%= events.activity[i].description %>
+                                <%= activity.dataValues.description %>
                             </div>
                             <ul class="postcard__btnbox">
                                 <li class="btn__item play roto">
@@ -56,19 +56,19 @@
                         <% if (i%2!==0) { %>
                             <article class="postcard dark roto">
                                 <a class="postcard__img_link" href="#">
-                                    <img class="postcard__img" src="<%= events.activity[i].imageURL %>"
+                                    <img class="postcard__img" src="<%= activity.dataValues.image %>"
                                         alt="Image Title" />
                                 </a>
                                 <div class="postcard__text">
                                     <h1 class="postcard__title roto">
                                         <a href="#">
-                                            <%= events.activity[i].activityTitle %>
+                                            <%= activity.dataValues.title %>
                                         </a>
                                     </h1>
                                     <div class="postcard__subtitle small"></div>
                                     <div class="postcard__bar"></div>
                                     <div class="postcard__preview-txt">
-                                        <%= events.activity[i].description %>
+                                        <%= activity.dataValues.description %>
                                     </div>
                                     <ul class="postcard__btnbox">
                                         <li class="btn__item play roto">
@@ -79,7 +79,7 @@
                                 </div>
                             </article>
                             <% } %>
-                                <% } %>
+                                <% }) %>
         </section>
     </div>
 

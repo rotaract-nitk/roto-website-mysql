@@ -19,7 +19,7 @@
         </div>
         <div class="col-6">
             <br><br>
-            <h1 style="text-align: center; color: aliceblue; text-transform: uppercase;"><%= events.eventTitle %></h1>
+            <h1 style="text-align: center; color: aliceblue; text-transform: uppercase;"><%= event.dataValues.title %></h1>
         </div>
         <div class="col-3"></div>
     </div>
@@ -27,22 +27,22 @@
 </div>
 <div class="container">
     <br><br>
-    <p style="text-align: center; font-size: large;"><%= events.eventDescription %></p>
+    <p style="text-align: center; font-size: large;"><%= event.dataValues.description %></p>
     
-    <% for( let j = 0; j < events.activity.length; j++ ) { %>
+    <% event.dataValues.Activities.forEach(activity => { %>
         <div class="activity-title center">
-            <h3 style="text-align: center; font-size: large;"><%= events.activity[j].activityTitle %></h3>
+            <h3 style="text-align: center; font-size: large;"><%= activity.dataValues.title %></h3>
         </div>
         <div class="center">
-            <p style="text-align: center; font-size: large;"><%= events.activity[j].description %></p>
+            <p style="text-align: center; font-size: large;"><%= activity.dataValues.description %></p>
         </div>
         <div class="activity-image">
-            <img src="<%= events.activity[j].imageURL %>" class="img-responsive img-centered mx-auto d-block" style="margin-top: 30px;margin-bottom: 30px; width: 40%;" alt="" />
+            <img src="<%= activity.dataValues.image %>" class="img-responsive img-centered mx-auto d-block" style="margin-top: 30px;margin-bottom: 30px; width: 40%;" alt="" />
         </div>
         <ul class="list-inline item-details " style="text-align: center; font-size: large;">
-            <li>Date: <strong><%= events.activity[j].Date %></strong></li>
+            <li>Date: <strong><%= activity.dataValues.date %></strong></li>
         </ul>
-        <% } %>
+        <% }) %>
         <div style="text-align: center; font-size: large;">
 
             <a href="/#portfolio">

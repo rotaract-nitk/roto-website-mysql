@@ -7,13 +7,14 @@ const social = require('../public/js/socials');
 module.exports = async (req,res) => {
     const siteUrl = `${req.protocol}://${req.get('host')}${req.originalUrl}`;
     let teams = await User.findAll();
+    const events = await db.Event.findAll();
     
     res.render('home', { siteData : {
-                                    social : social,
-                                    siteUrl : siteUrl,
-                                    teams: teams,
+                                    social,
+                                    siteUrl,
+                                    teams,
                                     gallery:{},
-                                    events:{}
+                                    events
                                 }
                         });
 }
