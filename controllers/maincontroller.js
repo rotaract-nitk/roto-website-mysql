@@ -1,7 +1,7 @@
 const db = require('../models');
 const User = db.User;
 const express = require('express');
-
+const social = require('../public/js/socials');
 
 
 module.exports = async (req,res) => {
@@ -9,7 +9,7 @@ module.exports = async (req,res) => {
     let teams = await User.findAll();
     
     res.render('home', { siteData : {
-                                    social : {},
+                                    social : social,
                                     siteUrl : siteUrl,
                                     teams: teams,
                                     gallery:{},
