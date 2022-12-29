@@ -1,385 +1,252 @@
 [{
-  "_id": {
-    "$oid": "61eeebf91bdd61a166bf95aa"
-  },
-  "eventTitle": "Verbose",
-  "eventDescription": "The first edition of Verbose was indeed a grand success with a turnout of a few teams filled with enthusiastic juniors ready to take part in the fun they were guaranteed. The teams that spoke the best and displayed a well- defined thought process were qualified into the 2nd round after a marvelous bout of Jam sessions where each team proved their mettle by talking their hearts out. 6 teams moved on to the 2nd round of turncoat debates where they were presented with issues that are censored by society. Each team displayed how calm and composed they were on switching sides and the fluidity in their thought processes and 3 of the best were selected on knockout basis. All the skills that these teams were judged on until then was put to the ultimate test in the final round of Spin the Yarn. And each team displayed how united they were while adapting to the challenge of sticking to the 3 word prompts given. Many interesting stories were told, and all 3 of them had the audience and the teams themselves cracking in laughter on each passing addition to the storyline. The teams enjoyed this round the most and had the time of their lives putting their wild imagination gears at work.",
-  "eventThumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045143/rotoWebsite/eventsThumbnails/verbose_thumb_oztd0d.png",
+  "title": "Verbose",
+  "description": "The first edition of Verbose was indeed a grand success with a turnout of a few teams filled with enthusiastic juniors ready to take part in the fun they were guaranteed. The teams that spoke the best and displayed a well- defined thought process were qualified into the 2nd round after a marvelous bout of Jam sessions where each team proved their mettle by talking their hearts out. 6 teams moved on to the 2nd round of turncoat debates where they were presented with issues that are censored by society. Each team displayed how calm and composed they were on switching sides and the fluidity in their thought processes and 3 of the best were selected on knockout basis. All the skills that these teams were judged on until then was put to the ultimate test in the final round of Spin the Yarn. And each team displayed how united they were while adapting to the challenge of sticking to the 3 word prompts given. Many interesting stories were told, and all 3 of them had the audience and the teams themselves cracking in laughter on each passing addition to the storyline. The teams enjoyed this round the most and had the time of their lives putting their wild imagination gears at work.",
+  "thumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045143/rotoWebsite/eventsThumbnails/verbose_thumb_oztd0d.png",
   "activity": [
     {
-      "activityTitle": "",
+      "title": "",
       "description": "",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045186/rotoWebsite/portfolio/verbose-image_d8aeuc.png",
-      "Date": "10th October",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95ab"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045186/rotoWebsite/portfolio/verbose-image_d8aeuc.png",
+      "date": "10th October"
     }
-  ],
-  "__v": 0
+  ]
 },{
-  "_id": {
-    "$oid": "61eeebf91bdd61a166bf95ad"
-  },
-  "eventTitle": "NITK Karavali Marathon",
-  "eventDescription": "Rotaract Club - NITK Chapter organised NITK Karavali Marathon jointly with the NITK Students Council and Task Force - NITK under the supervision of the NITK Alumni Association. With an average of over 2000 participants. A full marathon was introduced and started at 5.30 am with strong participants from Kenya and Ethiopia. The run was themed at ‘Save the Oceans’ and ‘Run for Unity’ with multiple Pre-events organised to raise awareness for the causes.The prize money of over 1.5L attracts a lot of participants. The route covers the picturesque NH66 Highway and the Surathkal/NITK beach roads. It is conducted once a year in the month of december-january. Rotaract Club NITK Chapter was proud to proud to be a part of the first student organised Full Marathon in the state. The Marketing team for the event comprising of the club members did a wonderful job by opening up the event to sponsors like MRPL, Revv, Impact-Social app etc. The logistics of the event on the day was done by the Rotaract Club members who helped out at the water stations and at the event setup. We aim to grow this event bigger every year and we expect a lot more participation next year from outside the NITK Fraternity. We are looking forward to getting our event accredited by the Indian and World Sports federations.",
-  "eventThumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045143/rotoWebsite/eventsThumbnails/marathon_thumb_qgwdvt.png",
+  "title": "NITK Karavali Marathon",
+  "description": "Rotaract Club - NITK Chapter organised NITK Karavali Marathon jointly with the NITK Students Council and Task Force - NITK under the supervision of the NITK Alumni Association. With an average of over 2000 participants. A full marathon was introduced and started at 5.30 am with strong participants from Kenya and Ethiopia. The run was themed at ‘Save the Oceans’ and ‘Run for Unity’ with multiple Pre-events organised to raise awareness for the causes.The prize money of over 1.5L attracts a lot of participants. The route covers the picturesque NH66 Highway and the Surathkal/NITK beach roads. It is conducted once a year in the month of december-january. Rotaract Club NITK Chapter was proud to proud to be a part of the first student organised Full Marathon in the state. The Marketing team for the event comprising of the club members did a wonderful job by opening up the event to sponsors like MRPL, Revv, Impact-Social app etc. The logistics of the event on the day was done by the Rotaract Club members who helped out at the water stations and at the event setup. We aim to grow this event bigger every year and we expect a lot more participation next year from outside the NITK Fraternity. We are looking forward to getting our event accredited by the Indian and World Sports federations.",
+  "thumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045143/rotoWebsite/eventsThumbnails/marathon_thumb_qgwdvt.png",
   "activity": [
     {
-      "activityTitle": "",
+      "title": "",
       "description": "",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045181/rotoWebsite/portfolio/nkm-image_xqmtfq.png",
-      "Date": "11th January",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95ae"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045181/rotoWebsite/portfolio/nkm-image_xqmtfq.png",
+      "date": "11th January"
     }
-  ],
-  "__v": 0
+  ]
 },{
-  "_id": {
-    "$oid": "61eeebf91bdd61a166bf95b0"
-  },
-  "eventTitle": "RoTalks",
-  "eventDescription": "A series of knowledge exchange programs held over the course of the semester open currently only for the members of the club. The talk series touches upon mainly social issues that we are not particularly aware of and attempts to spread awareness among the club members on issues which are important to the society. Initially, the talks series were all conducted in the Virtual Classroom in the CCC and were all recorded with the help of Taskforce NITK. Over the course of the pandemic, it has become our platform for a video content awareness project where the RoTalks team put together video content from speakers and guests.",
-  "eventThumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045144/rotoWebsite/eventsThumbnails/rotalks_thumb_bga1d7.png",
+  "title": "RoTalks",
+  "description": "A series of knowledge exchange programs held over the course of the semester open currently only for the members of the club. The talk series touches upon mainly social issues that we are not particularly aware of and attempts to spread awareness among the club members on issues which are important to the society. Initially, the talks series were all conducted in the Virtual Classroom in the CCC and were all recorded with the help of Taskforce NITK. Over the course of the pandemic, it has become our platform for a video content awareness project where the RoTalks team put together video content from speakers and guests.",
+  "thumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045144/rotoWebsite/eventsThumbnails/rotalks_thumb_bga1d7.png",
   "activity": [
     {
-      "activityTitle": "MENTAL HEALTH MATTERS",
+      "title": "MENTAL HEALTH MATTERS",
       "description": "As part of our Mental Health Awareness month, this month’s RoTalks episode is dedicated to talk about how mental health matters. With the guidance of Mrs. Urmimala Sinha, Clinical Psychologist, detailed content was put together about the important aspects of mental health in day to day life. This Episode was released in 2 parts.",
-      "imageURL": "",
-      "Date": "December 2020",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95b1"
-      }
+      "image": "",
+      "date": "December 2020"
     },
     {
-      "activityTitle": "RACISM IN INDIA",
+      "title": "RACISM IN INDIA",
       "description": "Inspired by the BLM movement, we decided to take a look at how racism is ingrained in Indian society. The video focuses on the various dynamics and sources of latent form of racial discrimination.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045177/rotoWebsite/portfolio/rotalks-imagerace_qopl31.png",
-      "Date": "October 2020",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95b2"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045177/rotoWebsite/portfolio/rotalks-imagerace_qopl31.png",
+      "date": "October 2020"
     },
     {
-      "activityTitle": "POLICE BRUTALITY",
+      "title": "POLICE BRUTALITY",
       "description": "Following the case of Jayaraj and Benix, multiple cases of police brutality began to emerge all across the nation. But very little was talked about the legal aspect about the issue. In this episode, we talked to Adv. Rupraj of Rotaract Club of Howrah Avyanna, who told us about our rights as a citizen once in police custody and measures to take to prevent being abused by the police force.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045177/rotoWebsite/portfolio/rotalks-imagepolice_ewi6cu.png",
-      "Date": "August 2020",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95b3"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045177/rotoWebsite/portfolio/rotalks-imagepolice_ewi6cu.png",
+      "date": "August 2020"
     },
     {
-      "activityTitle": "PRIDE",
+      "title": "PRIDE",
       "description": "As a part of the Pride month project, our first online episode of RoTalks was about the LGBTQIA+ community. Our speakers were Indians from different parts of the world who identify themself as a member of this community.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045181/rotoWebsite/portfolio/rotalks-imagepride_pcwyd5.png",
-      "Date": "July 2020",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95b4"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045181/rotoWebsite/portfolio/rotalks-imagepride_pcwyd5.png",
+      "date": "July 2020"
     },
     {
-      "activityTitle": "FREEDOM OF SPEECH",
+      "title": "FREEDOM OF SPEECH",
       "description": "Rtr. Fathima talked about the ironical question; Freedom of speech or freedom from speech.",
-      "imageURL": "",
-      "Date": "January 2019",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95b5"
-      }
+      "image": "",
+      "date": "January 2019"
     },
     {
-      "activityTitle": "THE ROTARY MOVEMENT",
+      "title": "THE ROTARY MOVEMENT",
       "description": "Rtr. Anthea talked about the history and structure of Rotary International, the very foundation of our club.",
-      "imageURL": "",
-      "Date": "October 2018",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95b6"
-      }
+      "image": "",
+      "date": "October 2018"
     },
     {
-      "activityTitle": "IMPORTANCE OF CSR",
+      "title": "IMPORTANCE OF CSR",
       "description": "Rtr. Vinay gave us an insight on Corporate Social Responsibility, it’s working and importance.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045182/rotoWebsite/portfolio/rotalks-imagecsr_uflyvg.png",
-      "Date": "September 2018",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95b7"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045182/rotoWebsite/portfolio/rotalks-imagecsr_uflyvg.png",
+      "date": "September 2018"
     }
-  ],
-  "__v": 0
+  ]
 },{
-  "_id": {
-    "$oid": "61eeebf91bdd61a166bf95b9"
-  },
-  "eventTitle": "Social Initiative Projects(SIPs)",
-  "eventDescription": "Social Initiative Project (or SIP) is an initiative taken up by the club to highlight societal concerns and spread awareness about them through a series of events and online posts. This is a collaborative effort of all the members of the club which includes research, content creation, publicity and marketing among others. We frequently tie-up with other like-minded people and organisations to maximize our outreach. The SIPs are where we collectively work towards a common goal whilst strengthening our inter-personal skills.",
-  "eventThumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045144/rotoWebsite/eventsThumbnails/sip_thumb_dfmqnf.png",
+  "title": "Social Initiative Projects(SIPs)",
+  "description": "Social Initiative Project (or SIP) is an initiative taken up by the club to highlight societal concerns and spread awareness about them through a series of events and online posts. This is a collaborative effort of all the members of the club which includes research, content creation, publicity and marketing among others. We frequently tie-up with other like-minded people and organisations to maximize our outreach. The SIPs are where we collectively work towards a common goal whilst strengthening our inter-personal skills.",
+  "thumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045144/rotoWebsite/eventsThumbnails/sip_thumb_dfmqnf.png",
   "activity": [
     {
-      "activityTitle": "MENTAL HEALTH AWARENESS MONTH",
+      "title": "MENTAL HEALTH AWARENESS MONTH",
       "description": "As part of our Mental Health Awareness month, the next SIP was dedicated for the same cause. With the guidance of Dr. Rahul M. Rao, Clinical Psychiatrist, detailed content was put up about 8 common mental illnesses. This was followed by a fundraiser for The Banyan. In addition to this, we had many other events like Bingo for a Change, Confessions, Expo, etc on social media as part of MHA month.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045177/rotoWebsite/portfolio/sip-image1_vslnlm.png",
-      "Date": "October - December 2020",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95ba"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045177/rotoWebsite/portfolio/sip-image1_vslnlm.png",
+      "date": "October - December 2020"
     },
     {
-      "activityTitle": "REJECT DRAFT EIA NOTIFICATION 2020",
+      "title": "REJECT DRAFT EIA NOTIFICATION 2020",
       "description": "The EIA has always banked on public opinion as one of the criterias to evaluate a project before awarding it an 'Environmental clearance' or a go-ahead signal. But the Draft of 2020 is formulated to change that. What the draft, ultimately, seeks to do is expand the list of projects that don’t require public consultations before receiving a prior environmental clearance allowing them to commence operations. This move could destroy life and environment at an exponential rate. To stop this from happening, we spread the word and circulated the petition to Reject E.I.A. We had a live session with the famous law student Sonali Jain who helped us get a more clear idea about the legal aspect of this issue. ISTE NITK joined us in our last leg of the project, the video publicity.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045181/rotoWebsite/portfolio/sip-image2_wwwatr.png",
-      "Date": "August 2020",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95bb"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045181/rotoWebsite/portfolio/sip-image2_wwwatr.png",
+      "date": "August 2020"
     },
     {
-      "activityTitle": "SAVE DUMNA",
+      "title": "SAVE DUMNA",
       "description": "In collaboration with IE NITK, we joined the fight to stop commercialization of the only remaining untouched Nature Reserve in Jabalpur, Madhya Pradesh. A petition was circulated to stop the authorities from starting safari tours and other activities which can put the natural balance of the reserve in danger.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045183/rotoWebsite/portfolio/sip-image3_ozygix.png",
-      "Date": "July 2020",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95bc"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045183/rotoWebsite/portfolio/sip-image3_ozygix.png",
+      "date": "July 2020"
     },
     {
-      "activityTitle": "PRIDE",
+      "title": "PRIDE",
       "description": "As men and women of conscience, we reject discrimination in general but due to lack of education and awareness and also due to cultural attitudes people refrain from acknowledging the discrimation against the LGBTQIA+ community. This preconceived notion is the main cause of oppression in the LGBTQIA+ community and we can put an end to this only by removing the stigma and educating the society about the partisanship about the community. So this month’s SIP was dedicated to spreading awareness about the LGBTQIA+ community.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045186/rotoWebsite/portfolio/sip-image4_w2dd44.png",
-      "Date": "June 2020",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95bd"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045186/rotoWebsite/portfolio/sip-image4_w2dd44.png",
+      "date": "June 2020"
     },
     {
-      "activityTitle": "CYCLONE AMPHAN",
+      "title": "CYCLONE AMPHAN",
       "description": "On the 25th of May, a deadly cyclone named Amphan (pronounced as UM-PUN) made landfall in West Bengal and caused severe damage to Kolkata, Howrah and several other nearby areas. About 500,000 people had been evacuated to shelters by the state administration. South Asia has emerged as a global hotspot for disaster displacement in recent times. Seventeen teams of the National Disaster Response Force (NDRF) had been deployed in Odisha and West Bengal in view of the approaching cyclone. But this atrocity did not receive enough media coverage. So we took it upon ourselves to spread the word. We also raised funds for Quarantined Student Youth Network, Kolkata.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045188/rotoWebsite/portfolio/sip-image5_ckhoac.png",
-      "Date": "May 2020",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95be"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045188/rotoWebsite/portfolio/sip-image5_ckhoac.png",
+      "date": "May 2020"
     },
     {
-      "activityTitle": "COVID-19",
+      "title": "COVID-19",
       "description": "By this time of 2020, the virus had reached all countries and the nation was in lockdown. With WHO declaring it as pandemic, people were in panic and confusion. To educate ourselves and the mass, a series of posts were released, highlighting the important points to remember.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045183/rotoWebsite/portfolio/sip-image6_iqnzr0.png",
-      "Date": "April 2020",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95bf"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045183/rotoWebsite/portfolio/sip-image6_iqnzr0.png",
+      "date": "April 2020"
     },
     {
-      "activityTitle": "CANCER HEALTH CAMP",
+      "title": "CANCER HEALTH CAMP",
       "description": "As a part of our publicity for our first health camp, posts were put up on social media to spread awareness about the benefits of early detection. Special focus was given to Breast Cancer, Cervical cancer and Oral cancer.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045187/rotoWebsite/portfolio/sip-image7_kwqzwx.png",
-      "Date": "March 2020",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95c0"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045187/rotoWebsite/portfolio/sip-image7_kwqzwx.png",
+      "date": "March 2020"
     },
     {
-      "activityTitle": "COMBAT CLIMATE CHANGE",
+      "title": "COMBAT CLIMATE CHANGE",
       "description": "NITK Karavali Marathon has chosen 'Combat Climate Change' as this 2020’s #RunForACause. As a part of this, we came up with few posts, talking about the importance and benefits of sustainable practices like the 3R’s.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045188/rotoWebsite/portfolio/sip-image8_qvmfps.png",
-      "Date": "December 2019",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95c1"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045188/rotoWebsite/portfolio/sip-image8_qvmfps.png",
+      "date": "December 2019"
     },
     {
-      "activityTitle": "CHILDREN'S DAY",
+      "title": "CHILDREN'S DAY",
       "description": "As a part of Children’s day, we decided to spread awareness about the dangers children face in our country. This was done through a series of hand-drawn comics in light of the theme.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045182/rotoWebsite/portfolio/sip-image9_evmi5b.png",
-      "Date": "November 2019",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95c2"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045182/rotoWebsite/portfolio/sip-image9_evmi5b.png",
+      "date": "November 2019"
     },
     {
-      "activityTitle": "MENTAL HEALTH AWARENESS WEEK",
+      "title": "MENTAL HEALTH AWARENESS WEEK",
       "description": "As a part of this year’s MHA week, a series of posts were released. Each piece was about a famous personality who suffer/ed from a mental illness. This was done to promote positivity and success stories and tell that it is possible to overcome the obstacles posed by your mental illness.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045183/rotoWebsite/portfolio/sip-image10_ypsfly.png",
-      "Date": "October 2019",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95c3"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045183/rotoWebsite/portfolio/sip-image10_ypsfly.png",
+      "date": "October 2019"
     },
     {
-      "activityTitle": "WATER SCARCITY",
+      "title": "WATER SCARCITY",
       "description": "The first SIP project was about water scarcity in India. 700 million people worldwide could be displaced by intense water scarcity by 2030. 40% of India will have no access to water by 2030. Chennai is practically the first Indian city to have gone dry with the Central Water Commission reporting a rainfall deficit of 41 per cent in Tamil Nadu till June 13 this year. By 2025, 1.8 billion people will be living in countries or regions with absolute water scarcity, and two-thirds of the world's population could be living under water stressed",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045179/rotoWebsite/portfolio/sip-image11_z42ipq.png",
-      "Date": "July-August 2019",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95c4"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045179/rotoWebsite/portfolio/sip-image11_z42ipq.png",
+      "date": "July-August 2019"
     }
-  ],
-  "__v": 0
+  ]
 },{
-  "_id": {
-    "$oid": "61eeebf91bdd61a166bf95c6"
-  },
-  "eventTitle": "Fundraisers",
-  "eventDescription": "We have carried out a lot of fundraisers in our club to help out varioous organisations and even staes and instituitions during times of need.",
-  "eventThumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045143/rotoWebsite/eventsThumbnails/fundraiser_thumb_k7wapc.png",
+  "title": "Fundraisers",
+  "description": "We have carried out a lot of fundraisers in our club to help out varioous organisations and even staes and instituitions during times of need.",
+  "thumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045143/rotoWebsite/eventsThumbnails/fundraiser_thumb_k7wapc.png",
   "activity": [
     {
-      "activityTitle": "THE BANYAN",
+      "title": "THE BANYAN",
       "description": "A total amount of Rs10085 was collected for the Banyan Organisation under the Mental Health Awareness project of our club.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045177/rotoWebsite/portfolio/fund-image1_zfuwyc.png",
-      "Date": "9th November 2020",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95c7"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045177/rotoWebsite/portfolio/fund-image1_zfuwyc.png",
+      "date": "9th November 2020"
     },
     {
-      "activityTitle": "S.P.A.R.K",
+      "title": "S.P.A.R.K",
       "description": "A total amount of Rs40000 was collected for the S.P.A.R.K Organisation in collboration with the ACM exclusive club of our college.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045178/rotoWebsite/portfolio/fund-image2_bblwlj.png",
-      "Date": "11th August 2020",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95c8"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045178/rotoWebsite/portfolio/fund-image2_bblwlj.png",
+      "date": "11th August 2020"
     },
     {
-      "activityTitle": "CYCLONE AMPHAN",
+      "title": "CYCLONE AMPHAN",
       "description": "A total amount of Rs11000 was collected for the helping out people affected by cyclone Amphan. The money collected was given to the Quarantined Student Youth Network. The collection was done under the Social Initiatives Project of our club.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045177/rotoWebsite/portfolio/fund-image3_n9gyue.png",
-      "Date": "27th May 2020",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95c9"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045177/rotoWebsite/portfolio/fund-image3_n9gyue.png",
+      "date": "27th May 2020"
     },
     {
-      "activityTitle": "KERALA FLOODS",
+      "title": "KERALA FLOODS",
       "description": "A total amount of Rs281006 was collected for Kerala-Coorg-Nagaland Flood Victims in collaboration with the student council of NITK.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045178/rotoWebsite/portfolio/fund-image4_cnsckp.png",
-      "Date": "16th August 2020",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95ca"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045178/rotoWebsite/portfolio/fund-image4_cnsckp.png",
+      "date": "16th August 2020"
     },
     {
-      "activityTitle": "ORPHANAGE COLLECTION",
+      "title": "ORPHANAGE COLLECTION",
       "description": "Money is collected annualy from various donation points and given to the orphanage being visited by the club that year.",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045181/rotoWebsite/portfolio/fund-image5_mabllb.png",
-      "Date": "Depends on conditions",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95cb"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045181/rotoWebsite/portfolio/fund-image5_mabllb.png",
+      "date": "Depends on conditions"
     }
-  ],
-  "__v": 0
+  ]
 },{
-  "_id": {
-    "$oid": "61eeebf91bdd61a166bf95cd"
-  },
-  "eventTitle": "Annual Charity Play",
-  "eventDescription": "Our Biggest production every year is the Annual Charity Play, all proceeds from which go towards supporting a charitable cause.It has grown to become the flagship event of our collegiate club, with attendees including Mangalore audience, NITK Alumni, Faculty, Students from NITK and neighbouring colleges. Door to door donations are collected and ticket sales are made.The proceeds usually go to places like Snehadeep Orphanage, Riya Foundation and to the KREC Kannada medium school. Donors could choose the cause they wanted to contribute to. Snehadeep Orphanage is an orphanage in Mangalore which houses twenty one HIV positive children and gives them accommodation as well as looks after all their needs. Riya Foundation is a mental health institution that looks after mentally challenged people and provides them education and boarding. The play engaged the audience right till the end of the show and it received a positive response from the audience.",
-  "eventThumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045142/rotoWebsite/eventsThumbnails/rotoplay_thumb_pnpwvb.png",
+  "title": "Annual Charity Play",
+  "description": "Our Biggest production every year is the Annual Charity Play, all proceeds from which go towards supporting a charitable cause.It has grown to become the flagship event of our collegiate club, with attendees including Mangalore audience, NITK Alumni, Faculty, Students from NITK and neighbouring colleges. Door to door donations are collected and ticket sales are made.The proceeds usually go to places like Snehadeep Orphanage, Riya Foundation and to the KREC Kannada medium school. Donors could choose the cause they wanted to contribute to. Snehadeep Orphanage is an orphanage in Mangalore which houses twenty one HIV positive children and gives them accommodation as well as looks after all their needs. Riya Foundation is a mental health institution that looks after mentally challenged people and provides them education and boarding. The play engaged the audience right till the end of the show and it received a positive response from the audience.",
+  "thumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045142/rotoWebsite/eventsThumbnails/rotoplay_thumb_pnpwvb.png",
   "activity": [
     {
-      "activityTitle": "",
+      "title": "",
       "description": "",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045184/rotoWebsite/portfolio/acp-image_t3ym4t.png",
-      "Date": "6th April",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95ce"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045184/rotoWebsite/portfolio/acp-image_t3ym4t.png",
+      "date": "6th April"
     }
-  ],
-  "__v": 0
+  ]
 },{
-  "_id": {
-    "$oid": "61eeebf91bdd61a166bf95d0"
-  },
-  "eventTitle": "Panache",
-  "eventDescription": "Panache: the inter-branch dance competition is organised in the Silver Jubilee Auditorium in NITK. The event has three rounds. The first round is a group dance, and the top 4 teams are chosen to go onto the next round, which is a solo or duet. For the final round, the top two teams battle it out on the dance floor with a face-off. It is a pretty fun experience for everyone out there.It is conducted once a year.",
-  "eventThumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045144/rotoWebsite/eventsThumbnails/panache_thumb_htscuz.png",
+  "title": "Panache",
+  "description": "Panache: the inter-branch dance competition is organised in the Silver Jubilee Auditorium in NITK. The event has three rounds. The first round is a group dance, and the top 4 teams are chosen to go onto the next round, which is a solo or duet. For the final round, the top two teams battle it out on the dance floor with a face-off. It is a pretty fun experience for everyone out there.It is conducted once a year.",
+  "thumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045144/rotoWebsite/eventsThumbnails/panache_thumb_htscuz.png",
   "activity": [
     {
-      "activityTitle": "",
+      "title": "",
       "description": "",
-      "imageURL": "",
-      "Date": "13th February",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95d1"
-      }
+      "image": "",
+      "date": "13th February"
     }
-  ],
-  "__v": 0
+  ]
 },{
-  "_id": {
-    "$oid": "61eeebf91bdd61a166bf95d3"
-  },
-  "eventTitle": "Head Start",
-  "eventDescription": "Event to help first years get a head start in their college life.",
-  "eventThumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045143/rotoWebsite/eventsThumbnails/hs_thumb_jcr8ue.png",
+  "title": "Head Start",
+  "description": "Event to help first years get a head start in their college life.",
+  "thumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045143/rotoWebsite/eventsThumbnails/hs_thumb_jcr8ue.png",
   "activity": [
     {
-      "activityTitle": "",
+      "title": "",
       "description": "",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045179/rotoWebsite/portfolio/nitkmun-image_uaiyqf.png",
-      "Date": "12th February",
-      "_id": {
-        "$oid": "61eeebf91bdd61a166bf95d4"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045179/rotoWebsite/portfolio/nitkmun-image_uaiyqf.png",
+      "date": "12th February"
     }
-  ],
-  "__v": 0
+  ]
 },{
-  "_id": {
-    "$oid": "61eeebfa1bdd61a166bf95d6"
-  },
-  "eventTitle": "Blockbuster",
-  "eventDescription": "Blockbuster is an event based off of pop culture and consists of three rounds which consist of testing the knowledge of the participants regarding popular movies, literature and other aspects of culture. The event is usually comprised of three basic rounds- first is a written round that consists of two parts first is a crossword and the second a series of rapid fire questions. The second round is usually comprised of three parts of popular gameshows such as the price is right and family feud and from this round the top two teams made it to a showdown. The third round is a classic game of blockbuster from which one team emerges as the victor.",
-  "eventThumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045143/rotoWebsite/eventsThumbnails/bb_thumb_g62oai.png",
+  "title": "Blockbuster",
+  "description": "Blockbuster is an event based off of pop culture and consists of three rounds which consist of testing the knowledge of the participants regarding popular movies, literature and other aspects of culture. The event is usually comprised of three basic rounds- first is a written round that consists of two parts first is a crossword and the second a series of rapid fire questions. The second round is usually comprised of three parts of popular gameshows such as the price is right and family feud and from this round the top two teams made it to a showdown. The third round is a classic game of blockbuster from which one team emerges as the victor.",
+  "thumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045143/rotoWebsite/eventsThumbnails/bb_thumb_g62oai.png",
   "activity": [
     {
-      "activityTitle": "",
+      "title": "",
       "description": "",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045188/rotoWebsite/portfolio/blockbuster-image_e7qo5g.png",
-      "Date": "11th February",
-      "_id": {
-        "$oid": "61eeebfa1bdd61a166bf95d7"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045188/rotoWebsite/portfolio/blockbuster-image_e7qo5g.png",
+      "date": "11th February"
     }
-  ],
-  "__v": 0
+  ]
 },{
-  "_id": {
-    "$oid": "61eeebfa1bdd61a166bf95d9"
-  },
-  "eventTitle": "Verdict",
-  "eventDescription": "It is a courtroom case event held exclusively for the first years. The first round comprised of multiple games of Mafia. The next round comprised of two parts one was a deposition and the other the actual courtroom case. The students are given a police case which they had to crack. The students are divided into groups , the prosecution and the defence. The prosecution had to decide a primary suspect after the deposition, and the case would be taken to the courtroom the next day.",
-  "eventThumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045143/rotoWebsite/eventsThumbnails/verdict_thumb_t873h3.png",
+  "title": "Verdict",
+  "description": "It is a courtroom case event held exclusively for the first years. The first round comprised of multiple games of Mafia. The next round comprised of two parts one was a deposition and the other the actual courtroom case. The students are given a police case which they had to crack. The students are divided into groups , the prosecution and the defence. The prosecution had to decide a primary suspect after the deposition, and the case would be taken to the courtroom the next day.",
+  "thumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045143/rotoWebsite/eventsThumbnails/verdict_thumb_t873h3.png",
   "activity": [
     {
-      "activityTitle": "",
+      "title": "",
       "description": "",
-      "imageURL": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045186/rotoWebsite/portfolio/verdict-image_lht1xf.png",
-      "Date": "10th February",
-      "_id": {
-        "$oid": "61eeebfa1bdd61a166bf95da"
-      }
+      "image": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045186/rotoWebsite/portfolio/verdict-image_lht1xf.png",
+      "date": "10th February"
     }
-  ],
-  "__v": 0
+  ]
 },{
-  "_id": {
-    "$oid": "6251e561cf48b169b028cecf"
-  },
-  "eventTitle": "Humans of service (HOS)",
-  "eventDescription": "Thank you for your service",
-  "eventThumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045143/rotoWebsite/eventsThumbnails/bb_thumb_g62oai.png",
+  "title": "Humans of service (HOS)",
+  "description": "Thank you for your service",
+  "thumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045143/rotoWebsite/eventsThumbnails/bb_thumb_g62oai.png",
   "activity": [
     {
-      "activityTitle": "Sridhar",
+      "title": "Sridhar",
       "description": "My inspirations come from my fears",
-      "imageURL": "https://images.pexels.com/photos/937481/pexels-photo-937481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "image": "https://images.pexels.com/photos/937481/pexels-photo-937481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ]
 }]
