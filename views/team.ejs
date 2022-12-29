@@ -35,26 +35,26 @@
             <div class="row">
                 <% for( let index=0; index < teams.length; index++ ) { %>
                     <div class="col-sm-4">
-                        <div class="team-member">
-                            <img src="<%= teams[index].imageURL %>" class="img-responsive img-circle" alt="" width="240" height="240"/>
-                            <h4 style="font-weight: bold;">Rtr. <%= teams[index].name %>
+                        <div class="team-member"> 
+                            <img src="<%= teams[index].dataValues.image_url %>" class="img-responsive img-circle" alt="" width="240" height="240"/>
+                            <h4 style="font-weight: bold;">Rtr. <%= teams[index].dataValues.name %>
                             </h4>
                             <p class="text-muted">
-                                <%= teams[index].role %>
+                                <%= teams[index].dataValues.role %>
                             </p>
                             <ul class="list-inline social-buttons">
                                 <li>
-                                    <a href="mailto:<%= teams[index].gmail %>">
+                                    <a href="mailto:<%= teams[index].dataValues.gmail %>">
                                         <i class="fab fa-google"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="<%= teams[index].insta %>">
+                                    <a href="<%= teams[index].dataValues.insta %>">
                                         <i class="fab fa-instagram"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="<%= teams[index].linkedIn %>">
+                                    <a href="<%= teams[index].dataValues.linkedIn %>">
                                         <i class="fab fa-linkedin"></i>
                                     </a>
                                 </li>
