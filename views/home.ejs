@@ -5,6 +5,7 @@
   <body>
     <%- include('header'); %>
       <%- include('about'); %>
+      <%- include('gallery', { gallery: siteData.gallery }) %> 
       <%- include('events',{events: siteData.events}); %>
       <%- include('team',{teams : siteData.teams}); %>
         <%- include('contact'); %>
