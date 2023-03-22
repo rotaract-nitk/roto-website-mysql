@@ -1,0 +1,16 @@
+{
+    "title": "Humans of service (HOS)",
+    "description": "Thank you for your service",
+    "thumbnail": "https://res.cloudinary.com/djlnz87ow/image/upload/v1643045143/rotoWebsite/eventsThumbnails/bb_thumb_g62oai.png",
+    "activity": [
+      {
+        "title": "Sridhar",
+        "description": "My inspirations come from my fears",
+        "image": "https://images.pexels.com/photos/937481/pexels-photo-937481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "created_at": "2023-03-22 11:23:00",
+        "updated_at": "2023-03-22 11:23:00"
+      }
+    ],
+    "created_at": "2023-03-22 11:23:00",
+    "updated_at": "2023-03-22 11:23:00"
+  }

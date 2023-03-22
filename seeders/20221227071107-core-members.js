@@ -8,7 +8,7 @@ const data = fs.readFileSync('mongo-exports/teams.json', {encoding: 'utf8', flag
 module.exports = {
   async up (queryInterface, Sequelize) {
 
-    await queryInterface.bulkInsert('Users', JSON.parse(data) , {});
+    await queryInterface.bulkInsert('users', JSON.parse(data) , {});
 
     /**
      * Add seed commands here.
@@ -23,7 +23,7 @@ module.exports = {
 
   async down (queryInterface, Sequelize) {
 
-    await queryInterface.bulkDelete('Users', null, {});
+    await queryInterface.bulkDelete('users', null, {});
     /**
      * Add commands to revert seed here.
      *
