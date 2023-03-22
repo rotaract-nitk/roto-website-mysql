@@ -2,7 +2,7 @@
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up(queryInterface, Sequelize) {
-    await queryInterface.createTable('Galleries', {
+    await queryInterface.createTable('galleries', {
       id: {
         allowNull: false,
         autoIncrement: true,
@@ -12,16 +12,16 @@ module.exports = {
       name: {
         type: Sequelize.STRING
       },
-      imageURL: {
+      image_url: {
         type: Sequelize.STRING
       },
-      createdAt: {
-        type: Sequelize.DATE,
-        defaultValue: Sequelize.literal('CURRENT_TIMESTAMP')
+      created_at: {
+        allowNull: false,
+        type: Sequelize.DATE
       },
-      updatedAt: {
-        type: Sequelize.DATE,
-        defaultValue: Sequelize.literal('CURRENT_TIMESTAMP')
+      updated_at: {
+        allowNull: false,
+        type: Sequelize.DATE
       }
     });
   },

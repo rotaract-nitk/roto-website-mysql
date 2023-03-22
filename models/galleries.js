@@ -15,7 +15,7 @@ module.exports = (sequelize, DataTypes) => {
   }
   Galleries.init({
     name: DataTypes.STRING,
-    imageURL: DataTypes.STRING
+    imageUrl: DataTypes.STRING
   }, {
     sequelize,
     modelName: 'Galleries',

@@ -9,7 +9,7 @@ dotenv.config({
 const express = require('express');
 const app = express();
 const db = require(path.resolve(__dirname,'models','index'));
-db.sequelize.sync();
+// db.sequelize.sync();
 
 const homePageRoutes = require('./routes/mainroute');
 app.use(express.static(path.join(__dirname, "public")));

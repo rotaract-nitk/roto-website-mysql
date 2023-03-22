@@ -9,7 +9,7 @@ module.exports = async (req,res) => {
     const teams = await User.findAll();
     const events = await db.Event.findAll();
     const gallery = await db.Galleries.findAll();
-    
+    console.log(gallery)
     
     res.render('home', { siteData : {
                                     social,
